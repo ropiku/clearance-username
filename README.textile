@@ -1,0 +1,23 @@
+h1. A demo on using clearance
+
+See the Clearance wiki for "how to add username sign in":http://wiki.github.com/thoughtbot/clearance/sign-up-sign-in-with-user-name
+
+h2. Author
+
+* Mihai Anca
+
+h1. Clearance
+
+Rails authentication for developers who write tests.
+
+"We have clearance, Clarence.":http://www.youtube.com/v/mNRXJEE3Nz8
+
+h2. Clearance Authors
+
+* thoughtbot, inc.
+* Dan Croak
+* Mike Burns
+* Jason Morrison
+* Eugene Bolshakov
+* Josh Nichols
+* Mike Breen
