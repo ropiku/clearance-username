@@ -1,6 +1,6 @@
 h1. A demo on using clearance
 
-See the Clearance wiki for "how to add username sign in":http://wiki.github.com/thoughtbot/clearance/sign-up-sign-in-with-user-name
+See my "tutorial on how to add username authentication":http://ropiku.tumblr.com/post/77138388/clearance-login-with-username and the "Clearance wiki":http://wiki.github.com/thoughtbot/clearance/sign-up-sign-in-with-user-name
 
 h2. Author
 
